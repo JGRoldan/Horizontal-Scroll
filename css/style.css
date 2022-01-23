@@ -25,7 +25,7 @@ body{
 	position:relative;
 }
 .first{
-	background:url('/images/1.png') no-repeat left bottom;
+	background:url('../images/1.png') no-repeat left bottom;
 	background-size: contain;
 	background-color:#120F0F;
 	color:#FFF;
@@ -47,7 +47,7 @@ body{
 	font-size: 2rem;
 }
 .second{
-	background:url('/images/2.png') no-repeat right bottom;
+	background:url('../images/2.png') no-repeat right bottom;
 	background-size: contain;
 	background-color:#FFF;
 	overflow:hidden;
